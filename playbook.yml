@@ -1,0 +1,11 @@
+site:
+  title: ChRIS_store_ui README
+  url: https://mfonn.github.io/ChRIS_store_ui_README
+  start_page: CHRIS_STORE_UI::README.html
+content:
+  sources:
+    - url: https://github.com/Mfonn/ChRIS_store_ui_README
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
