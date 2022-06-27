@@ -5,6 +5,7 @@ site:
 content:
   sources:
     - url: https://github.com/Mfonn/ChRIS_store_ui_README
+      start_path: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
